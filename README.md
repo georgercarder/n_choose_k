@@ -2,6 +2,10 @@
 
 a super basic math library
 
+Copyright (c) 2021 George Carder georgercarder@gmail.com
+
+GENERAL PUBLIC LICENSE Version 3
+
 recall ( n k ) = n! / (k! * (n - k)!)
 
 the factorial steps are cached for efficiency
